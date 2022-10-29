@@ -1,6 +1,8 @@
 # Easy-Attendance-App
 An Android app which uses Realm database to make attendance process simple inside classroom
 
+Participate in Hacktoberfest by contributing to any Open Source project on GitHub! Here is a starter project for first time contributors. #hacktoberfest
+
 ### Quick view code
 
 ### Introduction
